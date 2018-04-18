@@ -10,7 +10,7 @@ I feel at home(pun intended) with navigation keys laid out horizontally in the c
 
 As of this year of writing. Having GUI as well as terminal support is still handy as remote desktop is not always responsive enough.
 
-3. Lightweight.Â  Disregarding IDE's, editors don't usually take too long to start up or use too much memory these days. But I can still install vim pretty quick and reliably on a host of operating systems. Can't say that about notepad++.
+3. Lightweight.  Disregarding IDE's, editors don't usually take too long to start up or use too much memory these days. But I can still install vim pretty quick and reliably on a host of operating systems. Can't say that about notepad++.
 
 4. Internal documentation.
 
