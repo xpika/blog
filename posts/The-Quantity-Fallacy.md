@@ -6,4 +6,4 @@ The point I'm trying to make is that if you don't make enough changes when pract
 
 Another way of looking at it is from the following quote in the form of a question.
 <blockquote>"Did you gain 10 years of experience or just 1 year of experience 10 times?"</blockquote>
-There is a real sense in which repetition does make perfect, This is in regards to biology. Stretching muscle long enough will eventually leave it loose like a rubber band. There is also a similar concept in regards to memory whereÂ you can recall something quicker if you think it more often.
+There is a real sense in which repetition does make perfect, This is in regards to biology. Stretching muscle long enough will eventually leave it loose like a rubber band. There is also a similar concept in regards to memory where you can recall something quicker if you think it more often.

@@ -2,7 +2,7 @@ If you write a haskell application and want to transfer it somewhere else you co
 
 <code>git pull &lt;repo-url&gt;</code>
 
-If however, you upload it toÂ <a href="http://hackage.haskell.org">hackage</a>, both the downloading and installation can be done in a simple:
+If however, you upload it to <a href="http://hackage.haskell.org">hackage</a>, both the downloading and installation can be done in a simple:
 
 <code>cabal install &lt;package-name&gt;</code>
 

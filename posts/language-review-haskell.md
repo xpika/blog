@@ -40,7 +40,7 @@ number model
 Haskell has a really great model on numbers. supporting both hardware ints and integers seemlessly. i think most of the reason i use int instead of integer is int takes less time to write. learn to use the functions fromIntegral and round and you will rock the number model quickly.
 
 partial function application  
-i like this a lot because it allows you to compose functions really quickly. Â this is a gem feature which i would sorely miss if removed.
+i like this a lot because it allows you to compose functions really quickly.  this is a gem feature which i would sorely miss if removed.
 
 do notation.  
 i used to like this alot. that was until i realised that only the second line requires extra indention inHskell. what's wrong with main = getLine >>= \x -> putStrLn x?
