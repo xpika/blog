@@ -1,3 +1,9 @@
+---
+title: 10 commandments of web development
+published-on: 1 January 2000
+---
+
+
 Here ye, Here ye. I haveth the 10 commandments of web development which should under no circumstances be broken.
 
 1. Thall shall not inline css  
