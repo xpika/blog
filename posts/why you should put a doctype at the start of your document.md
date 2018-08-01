@@ -1,5 +1,5 @@
 If you create the following html document:
-[crayon]
+```
 <html>
    <head>
       <style>
@@ -19,7 +19,7 @@ If you create the following html document:
       </table>
    </body>
 </html>
-[/crayon]
+```
 
 It will render like this.
 
@@ -27,7 +27,7 @@ It will render like this.
 
 <code>If you add &lt;!doctype html&gt; to the top of your document like this:</code>
 
-[crayon]
+```
 <!doctype html>
 <html>
    <head>
@@ -48,7 +48,7 @@ It will render like this.
       </table>
    </body>
 </html>
-[/crayon]
+```
 
 It will render like this.
 
